@@ -1,0 +1,4 @@
+base:
+  'lap*':
+    - host.pc
+
